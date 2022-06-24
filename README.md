@@ -1,6 +1,6 @@
 # Rocket Sect (Landing page 03)
 
-<img height="300px" src="">
+<img height="300px" src="https://i.imgur.com/3mHV5iY.jpg">
 
 Projeto original do Figma: https://www.figma.com/file/ZhUJ26tL8HIMBWfrAT7QN0/Explorer-(Copy)
 
